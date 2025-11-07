@@ -1,0 +1,1 @@
+# hl7-adt-a01-interface
