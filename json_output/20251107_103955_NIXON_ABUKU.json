@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "controlId": "MSG00001",
+    "messageType": "ADT^A01",
+    "version": "2.5",
+    "receivedAt": "2025-11-07T15:39:55.093Z"
+  },
+  "sending": {
+    "application": "HOSPITAL_SYS",
+    "facility": "EAST_ORANGE_HOSPITAL"
+  },
+  "patient": {
+    "name": {
+      "last": "ABUKU",
+      "first": "NIXON",
+      "full": "NIXON ABUKU"
+    },
+    "mrn": "NA001",
+    "dob": "20000101",
+    "gender": "M"
+  },
+  "visit": {
+    "patientClass": "I",
+    "location": "ER"
+  }
+}
