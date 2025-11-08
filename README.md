@@ -172,7 +172,7 @@ Place `nixon_admit.txt` inside `HL7_IN`.
 ###  3. Deploy & Test
 - Deploy the channel  
 - Drop HL7 file into HL7_IN  
-- Check Dashboard → Messages → JSON Output Appears ✅
+- Check Dashboard → Messages → JSON Output Appears 
 
 ---
 
