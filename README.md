@@ -189,8 +189,8 @@ Place `nixon_admit.txt` inside `HL7_IN`.
 
 **Nixon Abuku**  
 *HL7 & Mirth Connect Integration Developer*  
-📌 GitHub: *(your GitHub link)*  
-📌 LinkedIn: *(optional if you want)*
+📌 GitHub: https://github.com/nixonabuku  
+📌 LinkedIn: https://www.linkedin.com/in/nixon-abuku-020bb3332/
 
 ---
 
